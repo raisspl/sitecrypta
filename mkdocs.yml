@@ -1,0 +1,7 @@
+site_name: Crypta
+site_author: Raissa
+
+theme: 
+  name: material
+  palette: 
+    primary: green
